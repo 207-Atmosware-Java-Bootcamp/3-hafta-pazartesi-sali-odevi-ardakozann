@@ -1,3 +1,6 @@
+//ÖDEV-2
+//Kullanıcı tarafından alınan dereceyi  Fahrenhayta çeviren algoritma yapalım.
+//Formül:(x*9/5)+32
 convertToFahrenheit();
 
 function convertToFahrenheit() {

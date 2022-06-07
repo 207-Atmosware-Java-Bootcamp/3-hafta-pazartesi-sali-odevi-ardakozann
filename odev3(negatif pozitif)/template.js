@@ -1,3 +1,4 @@
+//ÖDEV-3 verilen bir sayının negatif mi pozitif mi olduğunu bulan algoritma ?
 checkNumber();
 
 function checkNumber() {
